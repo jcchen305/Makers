@@ -1,6 +1,6 @@
 # Makers
 
-#Tenative Schedule for lectures
+#Tenative Schedule for meetings
 Week 1: Simon Says Part 1: Understanding the parts
 
 
