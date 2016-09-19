@@ -2,7 +2,7 @@
 #include <util/delay.h>
 #include <time.h>
 
-#define WHITE 330
+#define BLUE 330
 #define YELLOW 277
 #define RED 220
 #define GREEN 165
@@ -10,7 +10,7 @@
 #define DING 587
 #define BUZZ 69
 
-int tones[4] = {YELLOW, WHITE, GREEN, RED};
+int tones[4] = {YELLOW, BLUE, GREEN, RED};
 
 void setup() {
   // put your setup code here, to run once:
