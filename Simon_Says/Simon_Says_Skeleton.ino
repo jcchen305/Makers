@@ -80,7 +80,7 @@ void loop() {
     _delay_ms(500);
 
 
-    // TODO: If they got the sequence right, call the correct function and increment sLength
+    // TODO: If they got the sequence right (checking the boolean "right"), call the correct function and increment sLength
     // Otherwise, you'll want to call the incorrect function and set sLength back to 1.
 
 
